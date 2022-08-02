@@ -1,2 +1,2 @@
 # python Apps
-<a href="summNum.html">Sum Numbers</a>
+<a href="summNums.html">Sum Numbers</a>
